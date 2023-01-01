@@ -7,7 +7,7 @@
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> 
 
-
+|기간|활동|
 |:---:|:---:|
 |2022.08. ~ 2022.12.|코드클럽 22하반기 SW교육봉사단 키포인트 팀장|
 |2022.12. ~ |네이버커넥트 1784 스쿨혁명 AI들|
