@@ -9,7 +9,7 @@
 
 |활동|기간|주최|
 |:---|:---|:---|
-|1784 스쿨혁명 대학생 멘토 (AI들)|2022.12. ~ |[네이버 커넥트재단](https://m.post.naver.com/my/series/detail.naver?seriesNo=701453&memberNo=9434103&prevVolumeNo=34920987), 코드클럽|
-|스위프트 코딩클럽 2기|2022.09. ~ |스위프트 코딩클럽|
-|코드클럽 22하반기 SW교육봉사단 (키포인트-팀장)|2022.08. ~ 2022.12.|코드클럽한국위원회|
+|1784 스쿨혁명 대학생 멘토 (AI들)|2022.12. ~ |[네이버 커넥트재단](https://m.post.naver.com/my/series/detail.naver?seriesNo=701453&memberNo=9434103&prevVolumeNo=34920987), [코드클럽한국위원회](https://codeclubkorea.org/bbs/board.php?bo_table=notice&wr_id=274)|
+|스위프트 코딩클럽 2기|2022.09. ~ |[스위프트 코딩클럽()]|
+|코드클럽 22하반기 SW교육기부단 (키포인트-팀장)|2022.08. ~ 2022.12.|[코드클럽한국위원회](https://codeclubkorea.org/bbs/board.php?bo_table=notice&wr_id=250&page=2)|
 
