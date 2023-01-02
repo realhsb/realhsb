@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=black"/>
 
 ### ♥️
-<img src="https://img.shields.io/badge/Pokemon-FFCB05?style=flat-square&logo=Pokémon&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pokémon-FFCB05?style=flat-square&logo=Pokemon&logoColor=black"/>
 
 |Content|Date|Organizations|
 |:---|:---|:---|
